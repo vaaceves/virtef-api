@@ -1,0 +1,7 @@
+---
+applications:
+ - name: profiles_project
+   random-route: true
+   memory: 128M
+   no-route: true 
+   health-check-type: none 
